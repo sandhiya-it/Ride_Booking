@@ -67,6 +67,7 @@ You can see a sample output of the application below:
 - Driver ratings
 - Ride cancellation
 - Payment simulation
+- Easy Handling
 
 ---
 
